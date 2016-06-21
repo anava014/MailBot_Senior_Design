@@ -19,4 +19,9 @@ Keyboard/Mouse
 # Functionality
 An autonomous robot used to teach how memory is accessed and modified in a computer. The user inputs the command on the Raspberry Pi’s graphical user interface. This command is to either “set” or “get” the memory from an address. In parallel, the robot acts just as a mailman would when he is picking up mail or sending it from the parcel. This analogy is used to teach the concept of how memory is transferred from one address to another.
 
+![alt tag](https://i.imgur.com/MDgRg9l.png)
+![alt tag](https://i.imgur.com/WGGNbFw.png)
+![alt tag](https://i.imgur.com/SFRCWoQ.png)
+![alt tag](https://i.imgur.com/tdNQ0YM.png)
+![alt tag](https://i.imgur.com/WdmyeF0.png)
 
